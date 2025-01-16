@@ -1,4 +1,4 @@
-# zmin zmax lmass lSFR lSFR_err 
+zmin zmax lmass lSFR lSFR_err
 # from Table 2 in K.E. Whitaker et al. (2014)
 #
 # All stellar masses and star formation rates are logarithmic, 
