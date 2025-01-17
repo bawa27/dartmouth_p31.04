@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf6cfa4-7f2e-425c-8b92-0745a7f5bb47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day2_notebook_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Hello, Universe! student.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. Hello, Universe! student.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Our first HR Diagram student.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. Our first HR Diagram student.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tables/3dhst_whitaker14_fall2020.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tables/3dhst_whitaker14_fall2020.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,11 +89,22 @@
       <workItem from="1736976523880" duration="721000" />
       <workItem from="1737012958040" duration="17641000" />
       <workItem from="1737035886800" duration="758000" />
-      <workItem from="1737038257613" duration="2012000" />
+      <workItem from="1737038257613" duration="2564000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
