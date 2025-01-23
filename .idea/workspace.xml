@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf6cfa4-7f2e-425c-8b92-0745a7f5bb47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tables/neighbors-result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 Second HRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3 Second HRD.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aryan Bawa\PycharmProjects\dartmouth_p31.04\Figures" />
+      <recent name="C:\Users\Aryan Bawa\PycharmProjects\dartmouth_p31.04\Tables" />
       <recent name="C:\Users\Aryan Bawa\PycharmProjects\dartmouth_p31.04" />
     </key>
   </component>
@@ -90,6 +94,11 @@
       <workItem from="1737012958040" duration="17641000" />
       <workItem from="1737035886800" duration="758000" />
       <workItem from="1737038257613" duration="2564000" />
+      <workItem from="1737106253405" duration="859000" />
+      <workItem from="1737444568927" duration="2175000" />
+      <workItem from="1737461591403" duration="643000" />
+      <workItem from="1737618466344" duration="5274000" />
+      <workItem from="1737647336597" duration="5720000" />
     </task>
     <servers />
   </component>
