@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf6cfa4-7f2e-425c-8b92-0745a7f5bb47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tables/neighbors-result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Second HRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3 Second HRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comparison_Stars.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Comparison_Stars.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR3_5991844282681283712.fits" beforeDir="false" afterPath="$PROJECT_DIR$/DR3_5991844282681283712.fits" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DR3_5991844282681283712.png" beforeDir="false" afterPath="$PROJECT_DIR$/DR3_5991844282681283712.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/region.reg" beforeDir="false" afterPath="$PROJECT_DIR$/region.reg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
-    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aryan Bawa\PycharmProjects\dartmouth_p31.04\Figures" />
@@ -98,7 +101,10 @@
       <workItem from="1737444568927" duration="2175000" />
       <workItem from="1737461591403" duration="643000" />
       <workItem from="1737618466344" duration="5274000" />
-      <workItem from="1737647336597" duration="5720000" />
+      <workItem from="1737647336597" duration="6895000" />
+      <workItem from="1737654494047" duration="45000" />
+      <workItem from="1737661206278" duration="636000" />
+      <workItem from="1738056197754" duration="1925000" />
     </task>
     <servers />
   </component>
