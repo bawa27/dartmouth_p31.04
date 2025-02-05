@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JupyterPersistentConnectionParameters">
-    <option name="knownRemoteServers">
-      <list>
-        <JupyterConnectionParameters>
-          <option name="authType" value="notebook" />
-          <option name="token" value="6f8e4d1bb4831a7e5a2fa4ae385f0d2eeb1e384d37185616" />
-          <option name="urlString" value="http://localhost:8808/" />
-          <authParams2>
-            <map>
-              <entry key="token" value="6f8e4d1bb4831a7e5a2fa4ae385f0d2eeb1e384d37185616" />
-            </map>
-          </authParams2>
-        </JupyterConnectionParameters>
-      </list>
-    </option>
     <option name="moduleParameters">
       <map>
         <entry key="$PROJECT_DIR$/.idea/dartmouth_p31.04.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="C:\Users\Aryan Bawa\miniconda3" />
+              <option name="sdkName" value="" />
             </JupyterConnectionParameters>
           </value>
         </entry>

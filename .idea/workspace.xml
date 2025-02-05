@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf6cfa4-7f2e-425c-8b92-0745a7f5bb47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tables/TESS_TOI_28Jan2025.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tess Follow Up Observations 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess Follow Up Observations 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dartmouth_p31.04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dartmouth_p31.04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RR_Lyrae_Target_Stars.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RR_Lyrae_Target_Stars.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transiting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transiting.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
-    "Notification.DoNotAsk-Vcs Important Messages": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "database.data.extractors.current.export.id": "Pretty-Groovy.txt.groovy",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Aryan Bawa/miniconda3/envs/phys31_env/python.exe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Pretty-Groovy.txt.groovy&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aryan Bawa/miniconda3/envs/phys31_env/python.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aryan Bawa\PycharmProjects\dartmouth_p31.04\Tables" />
@@ -133,7 +135,14 @@
       <workItem from="1738412008699" duration="744000" />
       <workItem from="1738413047046" duration="2598000" />
       <workItem from="1738415946124" duration="45000" />
-      <workItem from="1738419543614" duration="10735000" />
+      <workItem from="1738419543614" duration="11014000" />
+      <workItem from="1738436375259" duration="18000" />
+      <workItem from="1738453544454" duration="86000" />
+      <workItem from="1738570383502" duration="45000" />
+      <workItem from="1738657091717" duration="759000" />
+      <workItem from="1738658042081" duration="97000" />
+      <workItem from="1738789652443" duration="1420000" />
+      <workItem from="1738791121428" duration="1657000" />
     </task>
     <servers />
   </component>
