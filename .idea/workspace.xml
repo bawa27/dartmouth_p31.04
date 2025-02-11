@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf6cfa4-7f2e-425c-8b92-0745a7f5bb47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tess Follow Up Observations 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dartmouth_p31.04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dartmouth_p31.04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tess Follow Up Observations Final.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transiting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transiting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RR_Lyrae_Target_Stars.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RR_Lyrae_Target_Stars.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tables/TESS_TOI_28Jan2025_Mookodi_Transits.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Tables/TESS_TOI_28Jan2025_Mookodi_Transits.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tess Follow Up Observations 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tess Follow Up Observations 2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +142,9 @@
       <workItem from="1738658042081" duration="97000" />
       <workItem from="1738789652443" duration="1420000" />
       <workItem from="1738791121428" duration="1657000" />
+      <workItem from="1738793102953" duration="410000" />
+      <workItem from="1738853023330" duration="222000" />
+      <workItem from="1739224180585" duration="22812000" />
     </task>
     <servers />
   </component>
